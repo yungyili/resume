@@ -1,0 +1,65 @@
+section {
+  padding: 2em 0;
+}
+
+.hidden.menu {
+  display: none;
+}
+
+.masthead {
+    padding: 0;
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+.masthead h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 4em;
+    font-weight: 100;
+    color: #fff;
+}
+
+#masthead-text {
+    position: absolute;
+    text-align: center;
+    bottom: 40%;
+    width: 100%;
+    height: auto;
+    color: #fff
+}
+
+#masthead-text h1 {
+  font-size: 4em;
+  font-weight: 100;
+}
+
+#masthead-text h2 {
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.section-portfolio {
+  background-color: #f5f5f5;
+}
+
+.menu-content {
+  display: none;
+}
+
+.menu-content.active {
+  display: inherit;
+}
+
+
+
+footer {
+  min-height: 200px;
+  background-color: #162b44;
+}
+
+.footer-icons {
+  padding: 1em 0;
+  font-size: 2em;
+  color: #000;
+}
