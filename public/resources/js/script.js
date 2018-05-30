@@ -1,5 +1,15 @@
 $(document).ready(function(){
 
+  $('.ui.accordion').accordion();
+
+  $('.trigger.example .accordion')
+    .accordion({
+      selector: {
+        trigger: '.title .icon'
+      }
+    })
+  ;
+
   /* hero page upper left menu */
   $('.section-hero .menu .browse').popup({
     inline   : true,
