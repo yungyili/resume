@@ -1,8 +1,18 @@
 $(document).ready(function(){
 
-  // fix menu when passed
-  $('.masthead')
+  /* hero page upper left menu */
+  $('.section-hero .menu .browse').popup({
+    inline   : true,
+    hoverable: true,
+    position : 'bottom left',
+    delay: {
+      show: 300,
+      hide: 800
+     }
+  });
 
+  /* Show top fixed menu outside hero page */
+  $('.masthead')
     .visibility({
       once: false,
       onBottomPassed: function() {
@@ -42,7 +52,8 @@ $(document).ready(function(){
       });
   });
 
-  $('.ui.menu a.item')
+  /* For Resume section */
+  $('.ui.tabular.menu a.item')
       .on('click', function() {
         $(this)
           .addClass('active')

@@ -6,6 +6,12 @@ section {
   display: none;
 }
 
+#hero-menu {
+  margin-bottom: 0;
+  border-radius: 0;
+
+}
+
 .masthead {
     padding: 0;
     font-weight: 100;
