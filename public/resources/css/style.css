@@ -6,6 +6,10 @@ section {
   display: none;
 }
 
+#hero-menu-icon {
+  font-size: 1.8em;
+}
+
 #hero-menu {
   margin-bottom: 0;
   border-radius: 0;
@@ -60,7 +64,18 @@ section {
   display: inherit;
 }
 
+.work.image {
+  filter:grayscale(100%);
+  transition: filter 0.5s;
+}
 
+.work.header {
+  color: #162b44;
+}
+
+.work.image:hover {
+  filter:grayscale(0%);
+}
 
 footer {
   min-height: 200px;
