@@ -9,4 +9,19 @@
       font-size: 1em;
       font-weight: 300;
   }
+
+  #following-menu {
+      visibility: none;
+  }
+
+  #masthead-text-480-lower {
+    display: block;
+  }
+
+  #masthead-text-480-plus {
+    display: none;
+  }
+
+  #hero-menu {
+    position: fixed;
 }

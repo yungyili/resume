@@ -16,6 +16,10 @@ section {
   display: none;
 }
 
+/*--------------------*/
+/* Drop down navi menu*/
+/*--------------------*/
+
 #hero-menu-icon {
   font-size: 1.8em;
 }
@@ -25,10 +29,45 @@ section {
   border-radius: 0;
   position: absolute;
   text-align: center;
-  top: 0;
-  left: 2%;
+  font-weight: 300;
+  top: 3%;
+  left: 3%;
+  z-index: 1;
 }
 
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    background-color: #737d8c;
+    opacity: 0.8;
+    transition: opacity 0.5s;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  opacity: 1.0;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/*--------------------*/
+/* Hero page */
+/*--------------------*/
 .masthead {
     padding: 0;
     font-weight: 100;
@@ -43,7 +82,7 @@ section {
     color: #fff;
 }
 
-#masthead-text {
+.masthead-text {
     position: absolute;
     text-align: center;
     bottom: 40%;
@@ -52,14 +91,18 @@ section {
     color: #fff
 }
 
-#masthead-text h1 {
+.masthead-text h1 {
   font-size: 4em;
   font-weight: 100;
 }
 
-#masthead-text h2 {
+.masthead-text h2 {
     font-size: 1em;
     font-weight: 300;
+}
+
+#masthead-text-480-lower {
+  display: none;
 }
 
 .section-portfolio {
