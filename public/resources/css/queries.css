@@ -11,7 +11,7 @@
   }
 
   #following-menu {
-      visibility: none;
+    display: none;
   }
 
   #masthead-text-480-lower {
