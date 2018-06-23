@@ -1,5 +1,10 @@
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 600px) {
+  .masthead-text h2 {
+      font-size: 3em;
+      font-weight: 100;
+  }
+
   #masthead-text-480-lower {
     display: block;
   }
@@ -10,18 +15,9 @@
 }
 
 @media only screen and (max-width: 480px) {
-  #masthead-text h1 {
-    font-size: 2em;
-    font-weight: 300;
-  }
-
-  #masthead-text h2 {
-      font-size: 1em;
+  .masthead-text h2 {
+      font-size: 2em;
       font-weight: 300;
-  }
-
-  #following-menu {
-    display: none;
   }
 
   #masthead-text-480-lower {

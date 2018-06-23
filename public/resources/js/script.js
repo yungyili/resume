@@ -10,17 +10,6 @@ $(document).ready(function(){
     })
   ;
 
-  /* hero page upper left menu */
-  $('.section-hero .menu .browse').popup({
-    inline   : true,
-    hoverable: true,
-    position : 'bottom left',
-    delay: {
-      show: 300,
-      hide: 800
-     }
-  });
-
   /* Show top fixed menu outside hero page */
   $('.masthead')
     .visibility({
