@@ -5,6 +5,7 @@
     "menu-home": "Home",
     "menu-resume": "Resume",
     "menu-portfolio": "Portfolio",
+    "menu-skill": "Skill",
     "menu-contract": "Contact",
 
     "section-resume": "Resume",
@@ -19,6 +20,13 @@
     "keyword-duration":"Duration",
     "keyword-responsibility":"Responsibility",
     "keyword-accomplishments":"Accomplishments",
+
+    "company-self-hire-name": "Self Taught FullStack Developer",
+    "company-self-hire-position": "N/A",
+    "company-self-hire-duration": "Mar 2018 - Now",
+    "company-self-hire-responsibility": "N/A",
+    "company-self-hire-accomplishments-1": "Learned HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, ReduxJS, MongoDB online",
+    "company-self-hire-accomplishments-2": "Have implement 3 websites independetly: shopping website, my resume and checklist website",
 
     "company-trend-name": "Trend Micro Inc",
     "company-trend-position": "Senior Software Engineer",

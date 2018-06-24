@@ -5,6 +5,7 @@
     "menu-home": "主頁",
     "menu-resume": "履歷",
     "menu-portfolio": "作品集",
+    "menu-skill": "技能",
     "menu-contract": "聯絡資訊",
 
     "section-resume": "履歷",
@@ -19,6 +20,13 @@
     "keyword-duration":"任職期間",
     "keyword-responsibility":"職責",
     "keyword-accomplishments":"成就",
+
+    "company-self-hire-name": "獨立學習中的全棧工程師",
+    "company-self-hire-position": "無",
+    "company-self-hire-duration": "2018年3月 至 現今",
+    "company-self-hire-responsibility": "無",
+    "company-self-hire-accomplishments-1": "從網路上學習了HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, ReduxJS, MongoDB",
+    "company-self-hire-accomplishments-2": "獨立完成了3個網站開發: 購物網站, 個人履歷網站, 清單網站",
 
     "company-trend-name": "趨勢科技股份有限公司",
     "company-trend-position": "資深軟體工程師",
