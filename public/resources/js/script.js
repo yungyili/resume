@@ -15,14 +15,10 @@ $(document).ready(function(){
     .visibility({
       once: false,
       onBottomPassed: function() {
-        if ($( window ).width() > 480){
-          $('.fixed.menu').transition('fade in');
-        }
+        $('.fixed.menu').transition('fade in');
       },
       onBottomPassedReverse: function() {
-        if ($( window ).width() > 480){
-          $('.fixed.menu').transition('fade out');
-        }
+        $('.fixed.menu').transition('fade out');
       }
     })
   ;

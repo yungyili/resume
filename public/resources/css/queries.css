@@ -20,6 +20,10 @@
       font-weight: 300;
   }
 
+  #following-menu {
+    font-size: 0.5em;
+  }
+
   #masthead-text-480-lower {
     display: block;
   }
@@ -28,6 +32,4 @@
     display: none;
   }
 
-  #hero-menu {
-    position: fixed;
 }
