@@ -26,5 +26,18 @@
     "company-trend-accomplishments-1": "參與以下產品的開發: PC-Cillin 2015-2018, OfficeScan 11, OfficeScan XG",
     "company-trend-accomplishments-2": "維護以下網路協定之攔截偵測功能: HTTP, HTTP/S, HTTP/2, SMTP, POP3",
     "company-trend-accomplishments-3": "獨立負責開發 HTTP/2 之攔截偵測功能",
-    "company-trend-accomplishments-4": "負責產品在Windows平台上之效能分析"
+    "company-trend-accomplishments-4": "負責產品在Windows平台上之效能分析",
+
+    "company-prophetstor-name": "先智雲端數據股份有限公司",
+    "company-prophetstor-position": "軟體工程師",
+    "company-prophetstor-duration": "2013年9月 至 2014年11月",
+    "company-prophetstor-responsibility": "客製化OpenStack distribution(Mirantis FUEL)以部署公司儲存產品",
+    "company-prophetstor-accomplishments-1": "獨力完成客製化OpenStack distribution(Mirantis FUEL)以部署公司儲存產品",
+    "company-prophetstor-accomplishments-2": "開發Ceph Storage對公司儲存產品對接之介面",
+
+    "company-htc-name": "宏達國際電子股份有限公司",
+    "company-htc-position": "資深軟體工程師",
+    "company-htc-duration": "2009年5月 至 2013年9月",
+    "company-htc-responsibility": "Android Framework在數據連線部分之客製化",
+    "company-htc-accomplishments-1": "接受電信客戶如Verizon, Sprint, ATT之要求, 進行Android Framework在數據連線部分之客製化"
 }
