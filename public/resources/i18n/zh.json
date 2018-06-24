@@ -39,5 +39,11 @@
     "company-htc-position": "資深軟體工程師",
     "company-htc-duration": "2009年5月 至 2013年9月",
     "company-htc-responsibility": "Android Framework在數據連線部分之客製化",
-    "company-htc-accomplishments-1": "接受電信客戶如Verizon, Sprint, ATT之要求, 進行Android Framework在數據連線部分之客製化"
+    "company-htc-accomplishments-1": "接受電信客戶如Verizon, Sprint, ATT之要求, 進行Android Framework在數據連線部分之客製化",
+
+    "academy-nctu-name" : "國立交通大學",
+    "academy-nctu-duration" : "資訊科學與工程研究所, 2006-2008",
+
+    "academy-ncu-name" : "國立中央大學",
+    "academy-ncu-duration" : "資訊工程學系 ,2002-2006"
 }
