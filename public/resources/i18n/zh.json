@@ -1,4 +1,13 @@
 {
-    "example1" : "例子 1",
-    "example2" : "例子 2"
+    "hero-text-main": "Hi, 我是YYLi",
+    "hero-text-secondary": "熱愛跑步, 游泳以及旅遊",
+
+    "menu-home": "主頁",
+    "menu-resume": "履歷",
+    "menu-portfolio": "作品集",
+    "menu-contract": "聯絡資訊",
+
+    "section-resume": "履歷",
+    "section-portfolio": "作品集",
+    "section-contact": "聯絡資訊"
 }

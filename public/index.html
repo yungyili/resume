@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html id="overwrite-text-font">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,10 +13,10 @@
         <!-- Following Menu -->
         <div class="ui large top fixed hidden following menu" id="following-menu">
           <div class="ui container">
-            <a href="#hero" class="item">Home</a>
-            <a href="#resume" class="item">Resume</a>
-            <a href="#portfolio" class="item">Portfolio</a>
-            <a href="#contact" class="item">Contact</a>
+            <a href="#hero" class="item" tkey="menu-home">Home</a>
+            <a href="#resume" class="item" tkey="menu-resume">Resume</a>
+            <a href="#portfolio" class="item"tkey="menu-portfolio">Portfolio</a>
+            <a href="#contact" class="item" tkey="menu-contract">Contact</a>
           </div>
         </div>
 
@@ -25,10 +25,10 @@
               <div class="ui fluid image" >
                   <img src="/resources/img/hero-img-water-darken.jpg" />
                   <div class="masthead-text" id="masthead-text-480-plus">
-                      <h1>
+                      <h1 tkey="hero-text-main">
                           Hi, I'm YYLi
                       </h1>
-                      <h2>
+                      <h2 tkey="hero-text-secondary">
                           A lover of coding, jogging and traveling
                       </h2>
                   </div>
@@ -46,7 +46,7 @@
           <div class="ui text container">
             <h2 class="ui horizontal divider header">
               <i class="user icon"></i>
-                Resume
+                <span  tkey="section-resume">Resume</span>
             </h2>
 
           <div class="ui top attached tabular menu">
@@ -186,7 +186,7 @@ Sprint, ATT, Orange and KDDI</div>
             <div class="ui text container">
               <h2 class="ui horizontal divider header">
                 <i class="code icon"></i>
-                  Portfolio
+                  <span tkey="section-portfolio">Portfolio</span>
               </h2>
               <div class="ui two stackable cards">
 
@@ -320,7 +320,7 @@ Sprint, ATT, Orange and KDDI</div>
             <div class="ui text container">
               <h2 class="ui horizontal divider header">
                 <i class="phone icon"></i>
-                  Contact Information
+                  <span tkey="section-contact">Contact Information</span>
               </h2>
               <div>
                 <i class="envelope icon"></i>
