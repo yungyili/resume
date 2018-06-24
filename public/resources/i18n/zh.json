@@ -45,5 +45,17 @@
     "education-nctu-duration" : "資訊科學與工程研究所, 2006-2008",
 
     "education-ncu-name" : "國立中央大學",
-    "education-ncu-duration" : "資訊工程學系 ,2002-2006"
+    "education-ncu-duration" : "資訊工程學系 ,2002-2006",
+
+    "work-genus-name": "Genus",
+    "work-genus-description": "方便地管理您的項目清單",
+
+    "work-personal-name": "我的個人網站",
+    "work-personal-description": "我的履歷以及作品集",
+
+    "work-shopping-name": "購物天堂",
+    "work-shopping-description": "盡情地買與賣各種物品",
+
+    "keyword-tryit": "試用看看",
+    "keyword-technology-stack": "技術棧"
 }
