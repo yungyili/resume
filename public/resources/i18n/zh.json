@@ -57,6 +57,12 @@
     "work-shopping-name": "購物天堂",
     "work-shopping-description": "盡情地買與賣各種物品",
 
+    "keyword-programming-language": "程式語言:",
+    "keyword-web": "網際網路:",
+    "keyword-field": "知識領域:",
+    "keyword-os": "作業系統:",
+    "keyword-certificate": "認證:",
+
     "keyword-tryit": "試用看看",
     "keyword-technology-stack": "技術棧"
 }

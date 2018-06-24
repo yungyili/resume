@@ -105,6 +105,10 @@ section {
   filter:grayscale(0%);
 }
 
+. button-list {
+  line-height: 4em
+}
+
 .section-contact {
   background-color: #f5f5f5;
 }

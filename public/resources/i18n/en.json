@@ -57,6 +57,12 @@
     "work-shopping-name": "Shopping Paradise",
     "work-shopping-description": "Buy and Sell, All As You Wish!",
 
+    "keyword-programming-language": "Programming Language:",
+    "keyword-web": "Web:",
+    "keyword-field": "Knowledge Fields:",
+    "keyword-os": "OS:",
+    "keyword-certificate": "Certificate:",
+
     "keyword-tryit": "Try It",
     "keyword-technology-stack": "technology stack"
 }
