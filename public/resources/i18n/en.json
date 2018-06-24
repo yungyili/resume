@@ -41,9 +41,9 @@
     "company-htc-responsibility": "Android Telephony Framework customization",
     "company-htc-accomplishments-1": "Android Telephony Framework customization for customers like Verizon, Sprint, ATT, Orange and KDDI",
 
-    "academy-nctu-name" : "National Chiao Tung University",
-    "academy-nctu-duration" : "M.S of Computer Science and Engineering — 2006-2008",
+    "education-nctu-name" : "National Chiao Tung University",
+    "education-nctu-duration" : "M.S of Computer Science and Engineering — 2006-2008",
 
-    "academy-ncu-name" : "National Central University",
-    "academy-ncu-duration" : "B.S of Computer Engineering — 2002-2006"
+    "education-ncu-name" : "National Central University",
+    "education-ncu-duration" : "B.S of Computer Engineering — 2002-2006"
 }
