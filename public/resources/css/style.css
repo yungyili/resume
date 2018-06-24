@@ -105,6 +105,20 @@ footer {
   background-color: #162b44;
 }
 
+#i18n-menu-container {
+  line-height:
+}
+
+#i18n-menu {
+  float: right;
+}
+
+.i18n-menu {
+  padding: 2em 0;
+  font-size: 1em;
+  color: #000;
+}
+
 .footer-icons {
   padding: 1em 0;
   font-size: 2em;

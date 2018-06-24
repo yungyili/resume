@@ -69,4 +69,14 @@ $(document).ready(function(){
           .siblings()
           .removeClass('active');
       });
+
+  /* i18n */
+   $("#i18n-menu").change(function () {
+      const langCode = this.value;
+      const path = 'resources/i18n/'+langCode+'.json';
+      console.log("langCode=", langCode, " ,path=", path);
+      $.getJSON(path, translate);
+  });
+
+
 });

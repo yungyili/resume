@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,300italic" rel="stylesheet" type="text/css">
@@ -256,7 +257,7 @@ Sprint, ATT, Orange and KDDI</div>
                   </div>
                   <div class="extra content ui large buttons">
                     <button class="ui button">
-                      <a href="https://guarded-eyrie-31181.herokuapp.com/">
+                      <a href="https://ancient-harbor-25095.herokuapp.com/">
                         Try it
                         <i class="arrow right icon"></i>
                       </a>
@@ -297,7 +298,7 @@ Sprint, ATT, Orange and KDDI</div>
                   </div>
                   <div class="extra content ui large buttons">
                     <button class="ui button">
-                      <a href="https://ancient-harbor-25095.herokuapp.com/">
+                      <a href=" https://stormy-sea-46814.herokuapp.com/">
                         Try it
                         <i class="arrow right icon"></i>
                       </a>
@@ -334,23 +335,36 @@ Sprint, ATT, Orange and KDDI</div>
 
           <footer>
             <div class="ui container">
-                <div class="ui container footer-icons">
-                  <a><i class="twitter icon"></i></a>
-                  <a><i class="facebook icon"></i></a>
-                  <a href="https://github.com/yungyili">
-                    <i class="github icon"></i>
-                  </a>
+              <div class="ui grid">
+                <div class="eight wide column">
+                  <div class="ui container footer-icons">
+                    <a><i class="twitter icon"></i></a>
+                    <a><i class="facebook icon"></i></a>
+                    <a href="https://github.com/yungyili">
+                      <i class="github icon"></i>
+                    </a>
+                  </div>
                 </div>
-                <div class="ui center aligned container">
-                  <p>
-                    <i class="taiwan flag"></i><span class="footer-text">yyli 2018 all rights reserved</span>
-                  </p>
+                <div class="eight wide column">
+                  <div class="ui container i18n-menu">
+                    <select name="i18n-menu" id="i18n-menu">
+                      <option value="en">English</option>
+                      <option value="zh">繁體中文</option>
+                    </select>
+                  </div>
                 </div>
+              </div>
+              <div class="ui center aligned container">
+                <p>
+                  <i class="taiwan flag"></i><span class="footer-text">yyli 2018 all rights reserved</span>
+                </p>
+              </div>
             </div>
           </footer>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="semantic/dist/semantic.min.js"></script>
+        <script src="resources/js/lang.js"></script>
         <script src="resources/js/script.js"></script>
     </body>
 </html>
