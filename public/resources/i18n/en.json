@@ -9,5 +9,22 @@
 
     "section-resume": "Resume",
     "section-portfolio": "Portfolio",
-    "section-contact": "Contact"
+    "section-contact": "Contact",
+
+    "keyword-experience": "Experience",
+    "keyword-education": "Education",
+
+    "keyword-position":"Position",
+    "keyword-duration":"Duration",
+    "keyword-responsibility":"Responsibility",
+    "keyword-accomplishments":"Accomplishments",
+
+    "company-trend-name": "Trend Micro Inc",
+    "company-trend-position": "Senior Software Engineer",
+    "company-trend-duration": "Nov 2014 - Dec 2017",
+    "company-trend-responsibility": "Develop and maintain network interception module. Mainly use C++ and Python. Working on Windows WFP layer and browser plugins",
+    "company-trend-accomplishments-1": "Development of several projects includes PC-Cillin 2015-2017 and OfficeScan 11, XG",
+    "company-trend-accomplishments-2": "Working on HTTP, HTTPS, HTTP/2, POP3 and SMTP protocols",
+    "company-trend-accomplishments-3": "Independently devloped HTTP/2 interception and analysis",
+    "company-trend-accomplishments-4": "Windows product performance tuning"
 }

@@ -1,5 +1,5 @@
 {
-    "hero-text-main": "Hi, 我是YYLi",
+    "hero-text-main": "嗨, 我是YYLi",
     "hero-text-secondary": "熱愛跑步, 游泳以及旅遊",
 
     "menu-home": "主頁",
@@ -9,5 +9,22 @@
 
     "section-resume": "履歷",
     "section-portfolio": "作品集",
-    "section-contact": "聯絡資訊"
+    "section-contact": "聯絡資訊",
+
+    "keyword-experience": "經歷",
+    "keyword-education": "學歷",
+
+    "keyword-position":"職稱",
+    "keyword-duration":"任職期間",
+    "keyword-responsibility":"職責",
+    "keyword-accomplishments":"成就",
+
+    "company-trend-name": "趨勢科技股份有限公司",
+    "company-trend-position": "資深軟體工程師",
+    "company-trend-duration": "2014年11月 至 2017年12月",
+    "company-trend-responsibility": "開發與維護網路流量攔截以及偵測的功能元件. 主要使用語言為C++與Python. 主要技術為 Windows WFP 與瀏覽器外掛(Plugin)",
+    "company-trend-accomplishments-1": "參與以下產品的開發: PC-Cillin 2015-2018, OfficeScan 11, OfficeScan XG",
+    "company-trend-accomplishments-2": "維護以下網路協定之攔截偵測功能: HTTP, HTTP/S, HTTP/2, SMTP, POP3",
+    "company-trend-accomplishments-3": "獨立負責開發 HTTP/2 之攔截偵測功能",
+    "company-trend-accomplishments-4": "負責產品在Windows平台上之效能分析"
 }

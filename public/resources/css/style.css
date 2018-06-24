@@ -3,9 +3,14 @@ html {
   margin: 0 auto;
 }
 
+#overwrite-text-font {
+  font-family: "Microsoft JhengHei";
+}
+
 html,
 body {
   font-size: 18px;
+
 }
 
 section {
