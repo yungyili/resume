@@ -105,6 +105,10 @@ section {
   filter:grayscale(0%);
 }
 
+.section-contact {
+  background-color: #f5f5f5;
+}
+
 footer {
   min-height: 200px;
   background-color: #162b44;
