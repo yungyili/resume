@@ -21,6 +21,12 @@ section {
   display: none;
 }
 
+.section-title {
+  line-height: 1.5em;
+  vertical-align: center;
+  margin-left: 0.5em;
+}
+
 /*--------------------*/
 /* Hero page */
 /*--------------------*/
