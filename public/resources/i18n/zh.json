@@ -21,7 +21,7 @@
     "keyword-responsibility":"職責",
     "keyword-accomplishments":"成就",
 
-    "company-self-hire-name": "獨立學習中的全棧工程師",
+    "company-self-hire-name": "自我訓練中的全棧工程師",
     "company-self-hire-position": "無",
     "company-self-hire-duration": "2018年3月 至 現今",
     "company-self-hire-responsibility": "無",
@@ -58,19 +58,33 @@
 
     "work-genus-name": "Genus",
     "work-genus-description": "方便地管理您的項目清單",
+    "work-personal-feature-1": "以帳密登入",
+    "work-personal-feature-2": "RESTful API",
 
     "work-personal-name": "我的個人網站",
     "work-personal-description": "我的履歷以及作品集",
+    "work-personal-feature-1": "響應式設計",
+    "work-personal-feature-2": "附著式選單",
+    "work-personal-feature-3": "支援多國語言",
 
     "work-shopping-name": "購物天堂",
     "work-shopping-description": "盡情地買與賣各種物品",
+    "work-shopping-feature-1": "響應式設計",
+    "work-shopping-feature-2": "使用本地端(帳號密碼)或社群網站(Google)帳號登入",
+    "work-shopping-feature-3": "整合Stripe線上支付",
+    "work-shopping-feature-4": "物品與訂單管理",
+    "work-shopping-feature-5": "購物車",
+    "work-shopping-feature-6": "RESTful API",
 
     "keyword-programming-language": "程式語言:",
     "keyword-web": "網際網路:",
     "keyword-field": "知識領域:",
     "keyword-os": "作業系統:",
     "keyword-certificate": "認證:",
+    "keywrod-frontend": "前端:",
+    "keywrod-backend": "後端:",
 
     "keyword-tryit": "試用看看",
-    "keyword-technology-stack": "技術棧"
+    "keyword-technology-stack": "技術棧",
+    "keyword-feature": "特色"
 }

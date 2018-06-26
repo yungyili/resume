@@ -58,19 +58,33 @@
 
     "work-genus-name": "Genus",
     "work-genus-description": "Easy management of your checklists",
+    "work-personal-feature-1": "Local signup",
+    "work-personal-feature-2": "RESTful API",
 
     "work-personal-name": "我Personal Website",
     "work-personal-description": "My resume and portfolio",
+    "work-personal-feature-1": "Responsive design",
+    "work-personal-feature-2": "Sticky menu",
+    "work-personal-feature-3": "Multiple language support",
 
     "work-shopping-name": "Shopping Paradise",
     "work-shopping-description": "Buy and Sell, All As You Wish!",
+    "work-shopping-feature-1": "Responsive design",
+    "work-shopping-feature-2": "Local and social(Google) SignUp",
+    "work-shopping-feature-3": "Integrate with Stripe online payment",
+    "work-shopping-feature-4": "Selling item and order management",
+    "work-shopping-feature-5": "Shopping Cart",
+    "work-shopping-feature-6": "RESTful API",
 
     "keyword-programming-language": "Programming Language:",
     "keyword-web": "Web:",
     "keyword-field": "Knowledge Fields:",
     "keyword-os": "OS:",
     "keyword-certificate": "Certificate:",
+    "keywrod-frontend": "Front-End:",
+    "keywrod-backend": "Back-End:",
 
     "keyword-tryit": "Try It",
-    "keyword-technology-stack": "technology stack"
+    "keyword-technology-stack": "technology stack",
+    "keyword-feature": "feature"
 }
